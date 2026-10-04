@@ -1,0 +1,27 @@
+{
+  "categories": [
+    { "id": "liquids", "name": "Жидкости" },
+    { "id": "devices", "name": "Устройства" },
+    { "id": "parts", "name": "Расходники" }
+  ],
+  "products": [
+    { "id": 1, "sku": "LQ-001", "name": "Лесная клюква 30мл", "description": "Демо-товар. Ягодный вкус, объём 30 мл.", "price": 590, "category": "liquids", "in_stock": true, "photos": [] },
+    { "id": 2, "sku": "LQ-002", "name": "Мятный бриз 30мл", "description": "Демо-товар. Свежий мятный вкус, объём 30 мл.", "price": 590, "category": "liquids", "in_stock": true, "photos": [] },
+    { "id": 3, "sku": "LQ-003", "name": "Тропический микс 60мл", "description": "Демо-товар. Фруктовый микс, объём 60 мл.", "price": 990, "category": "liquids", "in_stock": false, "photos": [] },
+    { "id": 4, "sku": "LQ-004", "name": "Холодная дыня 30мл", "description": "Демо-товар. Дынный вкус с холодком, объём 30 мл.", "price": 650, "category": "liquids", "in_stock": true, "photos": [] },
+    { "id": 5, "sku": "LQ-005", "name": "Классический табак 30мл", "description": "Демо-товар. Табачный вкус без добавок, объём 30 мл.", "price": 590, "category": "liquids", "in_stock": true, "photos": [] },
+    { "id": 6, "sku": "LQ-006", "name": "Вишня-кола 30мл", "description": "Демо-товар. Вкус вишни с нотами колы, объём 30 мл.", "price": 620, "category": "liquids", "in_stock": true, "photos": [] },
+
+    { "id": 7, "sku": "DV-001", "name": "Устройство «Компакт»", "description": "Демо-товар. Компактное многоразовое устройство, 650 mAh.", "price": 1990, "category": "devices", "in_stock": true, "photos": [] },
+    { "id": 8, "sku": "DV-002", "name": "Устройство «Про Макс»", "description": "Демо-товар. Устройство повышенной мощности, 1200 mAh.", "price": 3490, "category": "devices", "in_stock": true, "photos": [] },
+    { "id": 9, "sku": "DV-003", "name": "Устройство «Лайт»", "description": "Демо-товар. Лёгкое устройство для начинающих, 400 mAh.", "price": 1490, "category": "devices", "in_stock": false, "photos": [] },
+    { "id": 10, "sku": "DV-004", "name": "Устройство «Стандарт»", "description": "Демо-товар. Универсальное устройство, 900 mAh.", "price": 2490, "category": "devices", "in_stock": true, "photos": [] },
+    { "id": 11, "sku": "DV-005", "name": "Устройство «Мини»", "description": "Демо-товар. Самое компактное устройство, 300 mAh.", "price": 1290, "category": "devices", "in_stock": true, "photos": [] },
+
+    { "id": 12, "sku": "PT-001", "name": "Картридж сменный x2", "description": "Демо-товар. Комплект из двух сменных картриджей.", "price": 390, "category": "parts", "in_stock": true, "photos": [] },
+    { "id": 13, "sku": "PT-002", "name": "Испаритель 0.8 Ом", "description": "Демо-товар. Сменный испаритель, сопротивление 0.8 Ом.", "price": 290, "category": "parts", "in_stock": true, "photos": [] },
+    { "id": 14, "sku": "PT-003", "name": "Аккумулятор 18650", "description": "Демо-товар. Литий-ионный аккумулятор для устройств.", "price": 490, "category": "parts", "in_stock": false, "photos": [] },
+    { "id": 15, "sku": "PT-004", "name": "Зарядный кабель USB-C", "description": "Демо-товар. Кабель для зарядки устройств.", "price": 350, "category": "parts", "in_stock": true, "photos": [] },
+    { "id": 16, "sku": "PT-005", "name": "Комплект уплотнителей", "description": "Демо-товар. Набор сменных уплотнительных колец.", "price": 190, "category": "parts", "in_stock": true, "photos": [] }
+  ]
+}
